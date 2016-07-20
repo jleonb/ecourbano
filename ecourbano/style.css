@@ -248,6 +248,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-16 h5{
 	font-family: 'Open Sans', sans-serif;
 }
+#bloc-16 a{
+	color: white;
+}
 
 /* = NavBar
 -------------------------------------------------------------- */
@@ -593,7 +596,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-image:url('img/vision.jpg');
 }
 .bg-fondo-1{
-	background-image:url('img/fondo_1.jpg');
+	background-image:url('img/fondo_1_3.jpg');
 }
 .bg-nosotros{
 	background-image:url('img/fondo_nosotros.jpg');
