@@ -313,6 +313,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/fondo_construccion_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65733,
+		"inputAbbreviatedPath": "\/img\/fondo_construccion_2.jpg",
+		"outputAbbreviatedPath": "\/img\/fondo_construccion_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/fondo_hidraulica.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -324,6 +335,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/fondo_hidraulica_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 296654,
+		"inputAbbreviatedPath": "\/img\/fondo_hidraulica_2.jpg",
+		"outputAbbreviatedPath": "\/img\/fondo_hidraulica_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/fondo_movimiento.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -331,6 +353,17 @@
 		"initialSize": 243825,
 		"inputAbbreviatedPath": "\/img\/fondo_movimiento.jpg",
 		"outputAbbreviatedPath": "\/img\/fondo_movimiento.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fondo_movimiento_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45448,
+		"inputAbbreviatedPath": "\/img\/fondo_movimiento_2.jpg",
+		"outputAbbreviatedPath": "\/img\/fondo_movimiento_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -353,6 +386,17 @@
 		"initialSize": 306704,
 		"inputAbbreviatedPath": "\/img\/fondo_paisajismo.jpg",
 		"outputAbbreviatedPath": "\/img\/fondo_paisajismo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fondo_paisajismo_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 175510,
+		"inputAbbreviatedPath": "\/img\/fondo_paisajismo_2.jpg",
+		"outputAbbreviatedPath": "\/img\/fondo_paisajismo_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
