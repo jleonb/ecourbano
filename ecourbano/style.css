@@ -763,7 +763,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
         margin-top: 30px;
         margin-bottom: 30px;
     }
-.full-width-bloc .col-xs-2, .full-width-bloc .col-sm-2, .full-width-bloc .col-md-2, .full-width-bloc .col-lg-2, .full-width-bloc .col-xs-3, .full-width-bloc .col-sm-3, .full-width-bloc .col-md-3, .full-width-bloc .col-lg-3, .full-width-bloc .col-xs-4, .full-width-bloc .col-sm-4, .full-width-bloc .col-md-4, .full-width-bloc .col-lg-4, .full-width-bloc .col-xs-5, .full-width-bloc .col-sm-5, .full-width-bloc .col-md-5, .full-width-bloc .col-lg-5, .full-width-bloc .col-xs-6, .full-width-bloc .col-sm-6, .full-width-bloc .col-md-6, .full-width-bloc .col-lg-6, .full-width-bloc .col-xs-7, .full-width-bloc .col-sm-7, .full-width-bloc .col-md-7, .full-width-bloc .col-lg-7, .full-width-bloc .col-xs-8, .full-width-bloc .col-sm-8, .full-width-bloc .col-md-8, .full-width-bloc .col-lg-8, .full-width-bloc .col-xs-9, .full-width-bloc .col-sm-9, .full-width-bloc .col-md-9, .full-width-bloc .col-lg-9, .full-width-bloc .col-xs-10, .full-width-bloc .col-sm-10, .full-width-bloc .col-md-10, .full-width-bloc .col-lg-10, .full-width-bloc .col-xs-11, .full-width-bloc .col-sm-11, .full-width-bloc .col-md-11, .full-width-bloc .col-lg-11, .full-width-bloc .col-xs-12, .full-width-bloc .col-sm-12, .full-width-bloc .col-md-12, .full-width-bloc .col-lg-12 {
+		.full-width-bloc .col-xs-2, .full-width-bloc .col-sm-2, .full-width-bloc .col-md-2, .full-width-bloc .col-lg-2, .full-width-bloc .col-xs-3, .full-width-bloc .col-sm-3, .full-width-bloc .col-md-3, .full-width-bloc .col-lg-3, .full-width-bloc .col-xs-4, .full-width-bloc .col-sm-4, .full-width-bloc .col-md-4, .full-width-bloc .col-lg-4, .full-width-bloc .col-xs-5, .full-width-bloc .col-sm-5, .full-width-bloc .col-md-5, .full-width-bloc .col-lg-5, .full-width-bloc .col-xs-6, .full-width-bloc .col-sm-6, .full-width-bloc .col-md-6, .full-width-bloc .col-lg-6, .full-width-bloc .col-xs-7, .full-width-bloc .col-sm-7, .full-width-bloc .col-md-7, .full-width-bloc .col-lg-7, .full-width-bloc .col-xs-8, .full-width-bloc .col-sm-8, .full-width-bloc .col-md-8, .full-width-bloc .col-lg-8, .full-width-bloc .col-xs-9, .full-width-bloc .col-sm-9, .full-width-bloc .col-md-9, .full-width-bloc .col-lg-9, .full-width-bloc .col-xs-10, .full-width-bloc .col-sm-10, .full-width-bloc .col-md-10, .full-width-bloc .col-lg-10, .full-width-bloc .col-xs-11, .full-width-bloc .col-sm-11, .full-width-bloc .col-md-11, .full-width-bloc .col-lg-11, .full-width-bloc .col-xs-12, .full-width-bloc .col-sm-12, .full-width-bloc .col-md-12, .full-width-bloc .col-lg-12 {
         margin-top: 0;
         margin-bottom: 0;
     }
@@ -789,4 +789,18 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		#bloc-1 img {
 			width: 30%;
 		}
+}
+
+
+
+
+/*GRACIAS*/
+
+.popover   {
+	background-color: #0075BE;
+	color: #ecf0f1;
+	width: 120px;
+}
+.popover.right .arrow:after {
+	border-right-color: #0075BE;
 }
