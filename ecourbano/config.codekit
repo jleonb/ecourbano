@@ -410,6 +410,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/fondos_1.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 433666,
+		"inputAbbreviatedPath": "\/img\/fondos_1.jpeg",
+		"outputAbbreviatedPath": "\/img\/fondos_1.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fondos_2.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 720526,
+		"inputAbbreviatedPath": "\/img\/fondos_2.jpeg",
+		"outputAbbreviatedPath": "\/img\/fondos_2.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fondos_3.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 585323,
+		"inputAbbreviatedPath": "\/img\/fondos_3.jpeg",
+		"outputAbbreviatedPath": "\/img\/fondos_3.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fondos_4.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 422092,
+		"inputAbbreviatedPath": "\/img\/fondos_4.jpeg",
+		"outputAbbreviatedPath": "\/img\/fondos_4.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/forrest.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
