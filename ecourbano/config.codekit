@@ -3039,6 +3039,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logo_1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29284,
+		"inputAbbreviatedPath": "\/img\/logo_1.png",
+		"outputAbbreviatedPath": "\/img\/logo_1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47126,
+		"inputAbbreviatedPath": "\/img\/logo_2.jpg",
+		"outputAbbreviatedPath": "\/img\/logo_2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo_3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25303,
+		"inputAbbreviatedPath": "\/img\/logo_3.png",
+		"outputAbbreviatedPath": "\/img\/logo_3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logo_ecourbano1.png": {
 		"fileType": 32768,
 		"ignore": 0,

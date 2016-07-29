@@ -217,7 +217,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 /* Bloc text custom styling */
 
 #bloc-0 span{
-	background-color: rgba(81, 164, 82, 0.6);
+	background-color: rgba(0, 0, 0, 0.6);
 	padding: 0em 0.5em;
 
 }
