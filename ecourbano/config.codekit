@@ -223,6 +223,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/chilena.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 79896,
+		"inputAbbreviatedPath": "\/img\/chilena.jpg",
+		"outputAbbreviatedPath": "\/img\/chilena.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/desk-equipment.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -384,6 +395,17 @@
 		"initialSize": 783241,
 		"inputAbbreviatedPath": "\/img\/fondo_nosotros.jpg",
 		"outputAbbreviatedPath": "\/img\/fondo_nosotros.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/fondo_nosotros_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 291156,
+		"inputAbbreviatedPath": "\/img\/fondo_nosotros_2.jpg",
+		"outputAbbreviatedPath": "\/img\/fondo_nosotros_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2984,6 +3006,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/georgian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46036,
+		"inputAbbreviatedPath": "\/img\/georgian.jpg",
+		"outputAbbreviatedPath": "\/img\/georgian.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/iconos\/construccion.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3090,6 +3123,17 @@
 		"initialSize": 8411,
 		"inputAbbreviatedPath": "\/img\/logo_ecourbano_blanco.png",
 		"outputAbbreviatedPath": "\/img\/logo_ecourbano_blanco.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/mediterranea.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58106,
+		"inputAbbreviatedPath": "\/img\/mediterranea.jpg",
+		"outputAbbreviatedPath": "\/img\/mediterranea.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

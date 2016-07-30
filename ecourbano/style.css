@@ -217,8 +217,9 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 /* Bloc text custom styling */
 
 #bloc-0 span{
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color: rgba(81, 164, 82, 0.7);
 	padding: 0em 0.5em;
+	line-height: 150%;
 
 }
 #bloc-3 span {
@@ -250,9 +251,13 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 #bloc-10 h3{
 	font-family: 'Open Sans', sans-serif;
 }
+#bloc-10 img {
+	border-radius: 5px;
+}
 #bloc-11 h3{
 	font-weight: 100;
 	font-family: 'Open Sans', sans-serif;
+	line-height: 150%;
 }
 #bloc-11 span{
 	background-color: rgba(0,117,190,0.5);
@@ -371,7 +376,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	}
 }
 .nav > li > .dropdown a{
-	background: none!important;
+	background: transparent!important;
 	display: block;
 	padding: 14px 15px;
 }
@@ -634,8 +639,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background-image:url('img/fondo_1.jpg');
 }
 .bg-nosotros{
-	background-image:url('img/fondos_2.jpeg');
+	background-image:url('img/fondo_nosotros_2.jpg');
 }
+
 .bg-contacto{
 	background-image:url('img/fondos_3.jpeg');
 }
@@ -712,7 +718,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
     .nav > li{
         margin-top: 0;
         border-bottom:1px solid rgba(0,0,0,.1);
-        background:rgba(0,0,0,.05);
+        background:rgba(255,255,255,1);
         text-align: left;
         padding-left:15px;
         width:100%;
@@ -826,6 +832,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
     }
 		#bloc-1 img {
 			width: 30%;
+		}
+		.nav > li > .dropdown a{
+			background: white!important;
+			display: block;
+			padding: 14px 15px;
 		}
 }
 
