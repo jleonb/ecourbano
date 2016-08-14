@@ -755,10 +755,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
         box-shadow: none;
     }
     .navbar-brand img{
-        max-height: 40px;
+        max-height: 80px;
         width:auto;
         margin: -10px 10px 0 0;
     }
+		.movil {
+			
+		}
     .nav-invert .navbar-header{
         float: none;
         width:100%;

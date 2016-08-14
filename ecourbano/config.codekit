@@ -245,6 +245,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ecourbano.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 332249,
+		"inputAbbreviatedPath": "\/img\/ecourbano.jpg",
+		"outputAbbreviatedPath": "\/img\/ecourbano.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/fondo_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3123,6 +3134,17 @@
 		"initialSize": 8411,
 		"inputAbbreviatedPath": "\/img\/logo_ecourbano_blanco.png",
 		"outputAbbreviatedPath": "\/img\/logo_ecourbano_blanco.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logoeco.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158914,
+		"inputAbbreviatedPath": "\/img\/logoeco.png",
+		"outputAbbreviatedPath": "\/img\/logoeco.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
